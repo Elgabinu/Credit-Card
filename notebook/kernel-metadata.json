@@ -1,0 +1,16 @@
+{
+  "id": "elgabinu/credit-card-fraud-detection-training",
+  "title": "Credit Card Fraud Detection Training",
+  "code_file": "fraud_detection_training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

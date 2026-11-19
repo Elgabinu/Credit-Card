@@ -1,0 +1,15 @@
+# large data file
+creditcard.csv
+creditcardfraud.zip
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Model artifacts (downloaded from Kaggle after training)
+models/*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

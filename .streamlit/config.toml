@@ -1,0 +1,3 @@
+[server]
+# Maximum size of an uploaded transaction CSV, in megabytes.
+maxUploadSize = 700

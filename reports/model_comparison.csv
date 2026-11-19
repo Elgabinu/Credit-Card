@@ -1,0 +1,4 @@
+,Model,PR-AUC,ROC-AUC,Precision,Recall,F1,Threshold
+1,XGBoost,1.0,1.0,1.0,1.0,1.0,0.9997000098228455
+2,Random Forest,0.9971,1.0,0.9828,1.0,0.9913,0.5595
+3,Logistic Regression,0.7755,0.9832,0.9524,0.7018,0.8081,1.0
